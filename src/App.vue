@@ -1,3 +1,9 @@
 <template>
-    <p>TEST</p>
+    <div id="app">
+
+    </div>
 </template>
+
+<script>
+    //
+</script>
